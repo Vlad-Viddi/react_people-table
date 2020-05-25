@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,UACF,CAEA,QACE,wBACF,CAEA,OACE,qBACF","file":"main.e0b5e5b5.chunk.css","sourcesContent":["a {\n  margin: 5px;\n}\n\n.active {\n  background-color: blanchedalmond;\n}\n\n.table {\n  border: 1px solid black;\n}\n"]}
